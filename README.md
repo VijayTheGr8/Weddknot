@@ -1,6 +1,7 @@
 # Weddknot
 
 This is a dating app that removes the confusion for Desi family and allows for complete transparency on both parties.  
+
 UI Designer & Marketing: Ahash Ganeshamoorthy  
 Web Developer & AWS DevOps Engineer: Vijay Sai Patnaik   
   
